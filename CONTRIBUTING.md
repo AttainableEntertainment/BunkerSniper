@@ -9,7 +9,7 @@ You can fork the project on your repository, clone it to your computer and open 
 ## Working in the issues tab
 Issues are the main communication and organizing system we use in are projects. They are used to contribute new ideas to the project, organizing tasks for people to do, ask questions and learning.   
 * Check exsisting issues before creating a new issue 
-* If issue is a new feature make sure it confirms with the vision of the game or the game design document 
+* If issue is a new feature make sure it confirms with the vision of the game or the [game design document](https://github.com/AttainableEntertainment/BunkerSniper/blob/master/GameDesignDocument.md)
 * Use labels to help orgranize issues
 * Using search filters for labels can be really helpful, such as searching for all the issues for blueprint programming 
 
