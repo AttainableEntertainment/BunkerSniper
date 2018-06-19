@@ -47,5 +47,9 @@ You can help out the project with no game development experience. Heres some of 
 * Each component of a level must be organzing inside its own level dedicated to all simular types examples lighting, sound, blueprints, bspLayout, meshs. Each will follow the standard naming conventions and will be added to the main Level in which it belongs to with the proper level streaming 
 * For large levels such as open world games, the main level can contain another main level for further organization example, Level_nameOFWorld_nameOFSection_SectionComponent 
 
+### Standards for using branches 
+* The master branch contains the latest fully functional release 
+* Main development for software will be submitted to the develope branch.
+
 
 
