@@ -1,7 +1,7 @@
 # Bunker Sniper Game Design Document
 
 ## Overview
-Bunker Sniper game is a first person wave defence shooter in virtual reality.
+Bunker Sniper is a first person wave defence shooter in virtual reality.
 
 ### Objective
 The objective is to survive a rush of enemy minions by killing them with different weapons before the enemies can kill the player.
