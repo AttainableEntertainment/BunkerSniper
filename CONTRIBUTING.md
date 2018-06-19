@@ -48,6 +48,7 @@ You can help out the project with no game development experience. Heres some of 
 * For large levels such as open world games, the main level can contain another main level for further organization example, Level_nameOFWorld_nameOFSection_SectionComponent 
 
 ### Standards for using branches 
+We use the git-flow system for managing are branches, you can read up on [git-flow here](https://nvie.com/posts/a-successful-git-branching-model/)
 * The master branch contains the latest fully functional release 
 * Main development for software will be submitted to the develope branch.
 
