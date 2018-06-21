@@ -36,6 +36,7 @@ You can help out the project with no game development experience. Heres some of 
 * Make sure to follow the standards for organizing files and folders
 
 ### Standards for organizing the repository 
+* We will be following unreal engine's standard for file naming conventions, [link to the page here](https://wiki.unrealengine.com/Assets_Naming_Convention) 
 * All files will be put in the folder of its type example would be blueprints in the blueprints folder or meshs in the meshs folder
 * Folders may be created inside the main type folder to help organize large amount of files into sub folders. Example in folder blueprints, added a folder named Blueprints_AI for the ai blueprints or BP_AI for short 
 * Naming conventions for folders and files must follow the standard type_subtype_nameOfFile examples BP_Gun or BP_Weapons_Gun
